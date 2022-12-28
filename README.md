@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patorobles
-- 👀 I’m interested in ... Crypto, DeFi. 
-- 🌱 I’m currently learning ...basic blockchain development -> solidity, python and js
-- 💞️ I’m looking to collaborate on ...blockchain DeFi projects
+- 👀 I’m interested in creating useful, efficient dashboards to facilitate storytelling through Data 
+- 🌱 I’m currently learning Data Science with Python, specifically Machine Learning
+- 💞️ I’m looking to collaborate on Haggle competitions and Data Science projects
 - 📫 How to reach me ...
 
 <!---
